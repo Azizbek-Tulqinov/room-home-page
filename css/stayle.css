@@ -231,16 +231,14 @@
   }
   .section main .main-nav {
     height: 360px;
-    padding-top: 40px;
+    padding-top: 48px;
     position: relative;
   }
   .section main .main-nav div {
-    max-width: 250px;
+    max-width: 260px;
   }
   .section main .main-nav div .burger {
     display: block;
-    color: #fff;
-    font-size: 15px;
     cursor: pointer;
   }
   .section main .main-nav div ul {

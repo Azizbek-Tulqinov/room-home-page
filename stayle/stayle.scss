@@ -187,14 +187,13 @@
       grid-template-rows: 360px 410px;
       .main-nav {
         height: 360px;
-        padding-top: 40px;
+        padding-top: 48px;
         position: relative;
         div {
-          max-width: 250px;
+          max-width: 260px;
+
           .burger {
             display: block;
-            color: #fff;
-            font-size: 15px;
             cursor: pointer;
           }
 
